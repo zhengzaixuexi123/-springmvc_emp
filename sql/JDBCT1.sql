@@ -1,0 +1,1 @@
+drop table JDBCT1;create table JDBCT1 (username varchar2£¨30£©,password varchar2£¨30£©);
